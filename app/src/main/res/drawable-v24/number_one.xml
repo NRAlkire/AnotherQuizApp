@@ -1,0 +1,78 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="450dp"
+    android:height="450dp"
+    android:viewportWidth="450"
+    android:viewportHeight="450">
+  <path
+      android:pathData="m219.24,10.42a6.275,6.377 0,0 0,-4.477 1.893l-104.15,107.53a6.275,6.377 0,0 0,-0.033 8.933l44.806,46.857a6.275,6.377 0,0 0,8.889 0.1l48.695,-48.451v236.01a6.275,6.377 0,0 0,6.275 6.376h71.67a6.275,6.377 0,0 0,6.275 -6.376v-346.5a6.275,6.377 0,0 0,-6.275 -6.376h-71.67z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="12.65"
+      android:fillColor="#000000"
+      android:strokeColor="#000000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="m218.55,10.39a6.406,6.303 0,0 0,-4.57 1.871l-106.32,106.29a6.406,6.303 0,0 0,-0.033 8.83l45.736,46.315a6.406,6.303 0,0 0,9.074 0.098l49.706,-47.891v233.28a6.406,6.303 0,0 0,6.405 6.302h73.157a6.406,6.303 0,0 0,6.405 -6.302v-342.49a6.406,6.303 0,0 0,-6.405 -6.302h-73.157z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="m219.87,13.52a6.303,6.303 0,0 0,-4.497 1.871l-104.61,106.29a6.303,6.303 0,0 0,-0.033 8.83l45.002,46.315a6.303,6.303 0,0 0,8.928 0.098l48.908,-47.891v233.28a6.303,6.303 0,0 0,6.302 6.302h71.984a6.303,6.303 0,0 0,6.302 -6.302v-342.49a6.303,6.303 0,0 0,-6.302 -6.302h-71.984z">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startY="87.67603"
+          android:startX="253.76468"
+          android:endY="370.50674"
+          android:endX="253.76468"
+          android:type="linear">
+        <item android:offset="0" android:color="#FFFF0000"/>
+        <item android:offset="1" android:color="#FF800000"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="m219.86,11.51a6.303,6.303 0,0 0,-4.497 1.871l-38.437,39.061c9.587,-4.418 20.072,-7.894 31.249,-10.208 32.305,-6.69 64.353,-2.45 89.971,9.814v-34.236a6.303,6.303 0,0 0,-6.302 -6.302h-71.984z">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startY="8.534658"
+          android:startX="232.16846"
+          android:endY="74.35272"
+          android:endX="255.82347"
+          android:type="linear">
+        <item android:offset="0" android:color="#FFFFFFFF"/>
+        <item android:offset="1" android:color="#00FFFFFF"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="m298.155,290.605c-22.009,20.415 -51.189,36.093 -84.59,44.707l0,27.015a6.303,6.303 0,0 0,6.302 6.302l71.985,0a6.303,6.303 0,0 0,6.302 -6.302l0,-71.722z">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startY="364.34314"
+          android:startX="265.0776"
+          android:endY="301.4662"
+          android:endX="265.0776"
+          android:type="linear">
+        <item android:offset="0" android:color="#FFFF0000"/>
+        <item android:offset="1" android:color="#00FF0000"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="m298.14,103.52c-9.9,29.017 -31.653,60.899 -62.662,88.396 -7.166,6.355 -14.507,12.166 -21.927,17.463v19.662c4.655,-2.17 9.31,-4.492 13.95,-6.992 29.525,-15.901 53.814,-35.976 70.638,-56.819v-61.71zM298.14,186.598c-15.562,21.388 -38.306,42.389 -66.338,59.675 -6.05,3.731 -12.146,7.149 -18.25,10.274v11.259c5.38,-2.816 10.75,-5.836 16.084,-9.125 29.377,-18.115 52.931,-40.315 68.504,-62.76v-9.322z">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startY="163.77751"
+          android:startX="272.28323"
+          android:endY="259.42694"
+          android:endX="268.16568"
+          android:type="linear">
+        <item android:offset="0" android:color="#FFFF0000"/>
+        <item android:offset="1" android:color="#00FF0000"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="m297.082,424.824a13.861,41.655 90,1 1,-83.309 0,13.861 41.655,90 1,1 83.309,0z"
+      android:strokeAlpha="0.44"
+      android:fillColor="#ff0000"
+      android:fillAlpha="0.44"/>
+</vector>

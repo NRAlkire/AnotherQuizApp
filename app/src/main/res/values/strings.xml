@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Another Quiz Application</string>
+
+    <string name="new_user">New User? Click Here!</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="already_registered">Already Registered? Click Here!</string>
+    <string name="to_home">To Home Screen</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="register">Register</string>
+
+    <string name="night_mode">Click for Night Mode</string>
+    <string name="day_mode">Click for Day Mode</string>
+    <string name="chapter_one_title">Introduction</string>
+    <string name="chapter_two_title">Basics of C++</string>
+    <string name="chapter_three_title">Control Structures</string>
+    <string name="chapter_four_title">Compound Data Types</string>
+    <string name="chapter_five_title">Object Oriented Prog</string>
+    <string name="chapter_five_full_title">Object Oriented Programming</string>
+    <string name="chapter_six_title">Advanced Concepts</string>
+    <string name="chapter_seven_title">C++ Standard Library</string>
+
+    <string name="chapter_one_contents">Instructions For Use</string>
+    <string name="chapter_two_contents">Structures, Data Types, and Input, Output</string>
+    <string name="chapter_three_contents">Control Structures and Functions</string>
+    <string name="chapter_four_contents">Arrays, Pointers, Memory, and Other Data Types</string>
+    <string name="chapter_five_contents">Classes, Friends, and Polymorphism</string>
+    <string name="chapter_six_contents">Templates, Namespaces, and Type Casting</string>
+    <string name="chapter_seven_contents">File Input and Output</string>
+
+    <string name="level_one">Level One Quiz: WarmUp</string>
+    <string name="level_two">Level Two Quiz: Getting Started</string>
+    <string name="level_three">Level Three Quiz: Stepping It Up</string>
+    <string name="level_four">Level Four Quiz: Getting Good</string>
+    <string name="level_five">Level Five Quiz: How Good Are You</string>
+
+    <string name="profile_text">Update profile detail, such as Image and Login credentials</string>
+    <string name="learn_text">Learn C++ Basics, Intermediate Functions, and Advanced Operations</string>
+    <string name="quiz_text">Test yourself with quizzes from Beginner to Master</string>
+    <string name="image_text">Click Image to Add Personal Photo</string>
+
+
+    <string name="quit">Quit</string>
+    <string name="click_to_begin">Click Here To Begin</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="title_activity_night_book">NightBookActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_to_start">Back to Start Screen</string>
+    <string name="back">Back</string>
+    <string name="title_activity_chapter_two">ChapterTwoActivity</string>
+
+    <string name="chapter_quizzes">Quizzes by Chapter</string>
+    <string name="developer_title">Developer</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_cplusplus">Learn C++</string>
+    <string name="menu_quiz">Quizzes</string>
+    <string name="menu_quit">Quit</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_logout">Logout</string>
+</resources>

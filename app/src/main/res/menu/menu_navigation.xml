@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/menu_home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="@string/menu_profile"
+        android:icon="@drawable/ic_profile"/>
+
+    <item
+        android:id="@+id/learn"
+        android:title="@string/menu_cplusplus"
+        android:icon="@drawable/ic_learn"/>
+
+    <item
+        android:id="@+id/quizzes"
+        android:title="@string/menu_quiz"
+        android:icon="@drawable/ic_quizzes"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/menu_logout"
+        android:icon="@drawable/ic_logout"/>
+
+</menu>
